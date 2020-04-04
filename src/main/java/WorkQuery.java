@@ -19,8 +19,8 @@ import java.util.regex.Pattern;
 
 public class WorkQuery {
 
-    private String userAccount = "201750080616";
-    private String userPassword = "164278";
+    private String userAccount = "您的学号";
+    private String userPassword = "您的密码";
     private CloseableHttpClient httpClient;
     private CloseableHttpResponse response;
     private HttpGet httpGet;
